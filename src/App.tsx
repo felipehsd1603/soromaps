@@ -118,6 +118,19 @@ function App() {
           )}
         </div>
       </main>
+
+      <footer className="w-full max-w-2xl mx-auto px-4 py-6 text-center text-xs text-gray-500">
+        Projeto de código aberto. Se quiser contribuir, fique à vontade —{' '}
+        <a
+          href="https://github.com/felipehsd1603/soromaps"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline hover:text-gray-700"
+        >
+          github.com/felipehsd1603/soromaps
+        </a>
+        .
+      </footer>
     </div>
   );
 }

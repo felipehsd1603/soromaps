@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Instituto Butantan",
+    "state": "SP",
+    "city": "São Paulo",
+    "phone": "+551126279300",
+    "lat": -23.56708,
+    "lng": -46.71801,
+    "inventory": ["snake", "spider", "scorpion"],
+    "alerts": "Recomendado avisar via telefone na portaria principal"
+  },
+  {
+    "id": "2",
+    "name": "Hospital das Clínicas da Unicamp",
+    "state": "SP",
+    "city": "Campinas",
+    "phone": "+551935212121",
+    "lat": -22.829141,
+    "lng": -47.061304,
+    "inventory": ["snake", "spider", "scorpion"],
+    "alerts": "Atendimento 24h"
+  },
+  {
+    "id": "3",
+    "name": "Hospital Vital Brazil",
+    "state": "SP",
+    "city": "São Paulo",
+    "phone": "+551126279529",
+    "lat": -23.56799,
+    "lng": -46.71899,
+    "inventory": ["snake", "spider"],
+    "alerts": "Fica dentro do Butantan, emergências"
+  }
+]
